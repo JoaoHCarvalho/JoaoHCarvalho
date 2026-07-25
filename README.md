@@ -1,5 +1,5 @@
 ### Olá! Eu sou o João Henrique👋
-Atualmente, estou no 6° período do curso de Engenharia de Software na UDESC-CEAVI</br>
+Atualmente, estou no 7° período do curso de Engenharia de Software na UDESC-CEAVI</br>
 
 ![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoHCarvalho&show_icons=true&theme=dark)
 
